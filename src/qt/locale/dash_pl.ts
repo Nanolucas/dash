@@ -1247,8 +1247,8 @@
         <translation>Wzrost postępu na godzinę</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>obliczanie...</translation>
+        <source>Calculating...</source>
+        <translation>Obliczanie...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>

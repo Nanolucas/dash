@@ -1251,8 +1251,8 @@
         <translation>Увеличаване напредъка за час</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>изчисляване...</translation>
+        <source>Calculating...</source>
+        <translation>Изчисляване...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>

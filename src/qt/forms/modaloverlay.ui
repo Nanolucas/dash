@@ -297,7 +297,7 @@
            <item row="4" column="1">
             <widget class="QLabel" name="progressIncreasePerH">
              <property name="text">
-              <string>calculating...</string>
+              <string>Calculating...</string>
              </property>
             </widget>
            </item>
@@ -317,7 +317,7 @@
            <item row="5" column="1">
             <widget class="QLabel" name="expectedTimeLeft">
              <property name="text">
-              <string>calculating...</string>
+              <string>Calculating...</string>
              </property>
             </widget>
            </item>

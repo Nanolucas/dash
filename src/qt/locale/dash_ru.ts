@@ -1251,8 +1251,8 @@
         <translation>Увеличение прогресса за час</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>рассчитывается...</translation>
+        <source>Calculating...</source>
+        <translation>Рассчитывается...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>

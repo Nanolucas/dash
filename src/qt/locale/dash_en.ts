@@ -1584,8 +1584,8 @@
     <message>
         <location line="+7"/>
         <location line="+20"/>
-        <source>calculating...</source>
-        <translation>calculating...</translation>
+        <source>Calculating...</source>
+        <translation>Calculating...</translation>
     </message>
     <message>
         <location line="-7"/>

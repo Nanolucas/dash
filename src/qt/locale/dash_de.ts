@@ -1252,8 +1252,8 @@ Der Mixing-Prozeß läuft nach dem Start vollständig im Hintergrund, d.h. es is
         <translation>Fortschritt pro Stunde</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>berechne...</translation>
+        <source>Calculating...</source>
+        <translation>Berechne...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>

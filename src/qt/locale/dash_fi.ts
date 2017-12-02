@@ -1252,8 +1252,8 @@ Varoitus: Jos käytät käyttöjärjestelmää suoraan usb, dvd tai cd levyltä 
         <translation>Edistymisen kasvu per tunti</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>lasketaan...</translation>
+        <source>Calculating...</source>
+        <translation>Lasketaan...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>

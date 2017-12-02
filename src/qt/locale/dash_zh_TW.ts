@@ -1243,7 +1243,7 @@
         <translation>每小時進度增加</translation>
     </message>
     <message>
-        <source>calculating...</source>
+        <source>Calculating...</source>
         <translation>計算中...</translation>
     </message>
     <message>

@@ -1159,8 +1159,8 @@
         <translation>Prírastok postupu za hodinu</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>počíta sa...</translation>
+        <source>Calculating...</source>
+        <translation>Počíta sa...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>

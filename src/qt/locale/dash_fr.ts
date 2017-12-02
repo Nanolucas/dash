@@ -1251,8 +1251,8 @@
         <translation>Avancement par heure</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>en cours de calcul...</translation>
+        <source>Calculating...</source>
+        <translation>En cours de calcul...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>

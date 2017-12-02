@@ -1251,8 +1251,8 @@
         <translation>Tiến trình tăng lên mỗi giờ</translation>
     </message>
     <message>
-        <source>calculating...</source>
-        <translation>đang tính...</translation>
+        <source>Calculating...</source>
+        <translation>Dang tính...</translation>
     </message>
     <message>
         <source>Estimated time left until synced</source>
